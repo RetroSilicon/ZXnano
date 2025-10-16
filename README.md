@@ -73,15 +73,15 @@ A comprehensive ZX Spectrum reimplementation for the Tang Nano 20K FPGA board, d
 ## Screenshots
 
 ### Knight Lore
-[ZX Spectrum Knight Lore](docs/images/game001.jpg)
+![ZX Spectrum Knight Lore](docs/images/game001.jpg)
 
 ### Across the Edge Demo
-[Demo 1](/docs/images/demo001.jpg) 
-[Demo 2](/docs/images/demo002.jpg) 
+![Demo 1](/docs/images/demo001.jpg)
+![Demo 2](/docs/images/demo002.jpg)
 *Modern demo utilizing enhanced graphics modes*
 
 ### FUSE test
-[FUSE test](docs/images/test001.jpg) 
+![FUSE test](docs/images/test001.jpg)
 
 ## ROM Files Notice
 
